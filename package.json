@@ -1,0 +1,26 @@
+{
+  "name": "maze-game",
+  "version": "1.0.0",
+  "description": "This is a maze game.",
+  "main": "proj7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clalexander4/Maze-Game.git"
+  },
+  "keywords": [
+    "maze",
+    "game"
+  ],
+  "author": "Christina Ings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clalexander4/Maze-Game/issues"
+  },
+  "homepage": "https://github.com/clalexander4/Maze-Game#readme",
+  "engines": {
+	"node": "10.x"
+  }
+}
